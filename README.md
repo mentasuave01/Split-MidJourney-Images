@@ -1,6 +1,6 @@
-# SolidStart
+# Separate Midjourney Images
 
-Everything you need to build a Solid project, powered by [`solid-start`](https://start.solidjs.com);
+Upload your Midjourney images and it will separate them into 4 images.
 
 ## Creating a project
 
