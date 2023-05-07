@@ -1,6 +1,6 @@
-# Separate Midjourney Images
+# Split Midjourney Images
 
-Upload your Midjourney images and it will separate them into 4 images.
+Upload your Midjourney images and it will split them into 4 images.
 
 ## Creating a project
 
